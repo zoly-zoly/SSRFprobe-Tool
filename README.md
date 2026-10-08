@@ -57,7 +57,7 @@ Follow these instructions right after cloning the repository to get the tool run
 Open your terminal, clone the project from GitHub, and navigate into the directory:
 ```bash
 git clone https://github.com/zoly-zoly/SSRFprobe-Tool.git
-cd ssrfprobe
+cd SSRFprobe-Tool
 ```
 
 ### Step 2: Create a Virtual Environment
