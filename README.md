@@ -155,6 +155,7 @@ docker run --rm -it -v $(pwd):/app ssrfprobe --file targets.txt --output results
 ## 🛡️ Security Policy & Disclaimer
 Please see [SECURITY.md](SECURITY.md) for licensing and ethical usage instructions.
 
+---
 
 ## 📄 License
 
