@@ -56,7 +56,7 @@ Follow these instructions right after cloning the repository to get the tool run
 ### Step 1: Clone the Repository
 Open your terminal, clone the project from GitHub, and navigate into the directory:
 ```bash
-git clone https://github.com/yourusername/ssrfprobe.git
+git clone https://github.com/zoly-zoly/SSRFprobe-Tool.git
 cd ssrfprobe
 ```
 
@@ -150,9 +150,17 @@ docker run --rm -it -v $(pwd):/app ssrfprobe --file targets.txt --output results
 ## 🛡️ Responsible Disclosure & Ethics
 
 > **Disclaimer:** This tool is designed strictly for authorized security assessments, academic research, and bug bounty programs within explicit scope. Never run this tool against any system without prior written permission from the owner. The author assumes no liability for misuse.
+---
+
+## 🛡️ Security Policy & Disclaimer
+Please see [SECURITY.md](SECURITY.md) for licensing and ethical usage instructions.
 
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+*Created with ❤️ by **Zoly** for Bug Bounty Mastery.*
